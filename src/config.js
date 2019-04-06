@@ -49,7 +49,7 @@
   itemLabel: "左侧文字",
 
   // right label
-  typeLabel: "右侧文字",
+  typeLabel: "不重要的文字",
   // 榜首项目信息的水平位置 。
   item_x: 250,
 
